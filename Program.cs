@@ -7,8 +7,11 @@
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello, Welcome to the Adress Book Program: ");
-
+            ContactManagementUC1.CreateContact();
 
         }
+
     }
+    
+    
 }
